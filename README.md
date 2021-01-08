@@ -1,2 +1,2 @@
 # NodeJS-SSO
-A SSO library for Node JS. 
+A SSO modul for Node JS.  Where the SSO Client is a WebBrowser. 
